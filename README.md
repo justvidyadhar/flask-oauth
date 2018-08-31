@@ -1,4 +1,4 @@
-# Unmaintained
+# Maintained
 
 Flask-OAuth is currently unmaintained. If you want to add OAuth support to
 your Flask website, we recommend using
